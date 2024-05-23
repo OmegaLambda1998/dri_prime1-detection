@@ -1,3 +1,11 @@
+Fork of https://github.com/FrameworkComputer/dri_prime1-detection containing quality of life changes for my own personal system
+
+# Changes from Upstream:
+
+
+
+# Original Readme
+
 # Discrete graphics usage detection
 
 A simple application to verify if desired applications are running with discrete graphics
